@@ -1,4 +1,4 @@
-<h1 align="center">We Caren</h1>
+<h1 align="center">We Care</h1>
 <br>
 <br>
 <h2>Projeto desenvolvido em aula no <a href="https://devclub.com.br">DevClub</a></h2>
@@ -11,3 +11,4 @@
 <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/161aab81-d385-40f4-b899-58f3c4bc6306" />
 <br>
 <br>
+<img src="https://github.com/douglasfelipe83/We-Care/blob/master/assets/printPage.png?raw=true" />
